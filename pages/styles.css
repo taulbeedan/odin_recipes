@@ -1,0 +1,39 @@
+body {
+    background-color: powderblue;
+    font-family: Garamond, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h1 {
+    display: block;
+    color: cornflowerblue;
+    outline: auto 10px;
+    outline-color: whitesmoke;
+    background: gold;
+    padding-block: 15px;
+    margin: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body p {
+    text-align: left;
+}
+ ul, ol {
+    text-align: left;
+}
+img {
+    max-width: 800px;
+    height: auto;
+}
+h6{
+    border: 5px solid salmon ;  
+    margin: 120px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h2{
+    border-bottom: 5px dashed salmon;
+    margin: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
